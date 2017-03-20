@@ -1,4 +1,6 @@
-SuperRocket.SharePointSync allows you to sync files from Sharepoint to AWS.
+# SuperRocket.SPSync
+
+SuperRocket.SPSync allows you to sync files from Sharepoint to AWS.
 This project is based on abp and SuperRocket.Orchard, which is really owesome another template for web development, containing web and web api etc.
 Its Architecture is as below picture: 
 
@@ -8,7 +10,7 @@ Its Sequencial flow is as below picture:
 
 ![](https://github.com/AccentureRapid/SuperRocket.SPSync/blob/master/pic/1.png)
 
-How to run it?
+# How to run it?
 1.	You should have visual studio 2015 update 3 or visual studio 2017 installed.
 
 2.	Download the source code or clone to your local computer using https://github.com/AccentureRapid/SuperRocket.SPSync.git
